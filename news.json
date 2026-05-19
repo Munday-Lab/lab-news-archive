@@ -1,7 +1,76 @@
 [
   {
+    "text": "New papers published about #MachineLearning for #TPV in @ACSPhotonics and probe cleaning methods for #AFM in @IOPPublishing.\npubs.acs.org/doi/full/10.... \niopscience.iop.org/article/10.1...",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "MachineLearning"
+          }
+        ],
+        "index": {
+          "byteEnd": 43,
+          "byteStart": 27
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "TPV"
+          }
+        ],
+        "index": {
+          "byteEnd": 52,
+          "byteStart": 48
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "AFM"
+          }
+        ],
+        "index": {
+          "byteEnd": 105,
+          "byteStart": 101
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#link",
+            "uri": "https://pubs.acs.org/doi/full/10.1021/acsphotonics.5c03023"
+          }
+        ],
+        "index": {
+          "byteEnd": 153,
+          "byteStart": 125
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#link",
+            "uri": "https://iopscience.iop.org/article/10.1088/1361-6501/ae5325"
+          }
+        ],
+        "index": {
+          "byteEnd": 189,
+          "byteStart": 155
+        }
+      }
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreibnnzqi6wz7nzennxs2sh6u5m3f4a2jujpv53r3xemphlp3hjvpda",
+    "createdAt": "2026-05-19T21:34:35.777Z",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3mmadt37rx72n",
+    "fullUrl": "https://bsky.app/profile/mundaylab.bsky.social/post/3mmadt37rx72n"
+  },
+  {
     "cid": "bafyreiaqv5vcfb7p4hcrjfhcxry4fnwpiolhqvflngjh4fq3tjfubky5va",
-    "text": "Thanks to UC Davis, for a nice story about our recent TPV work: \"Researchers are Creating a Brighter Future for Solar Cells \u2014 Without the Sun\" \nece.ucdavis.edu/news/researc... \n@ucdavisengineering.bsky.social",
+    "text": "Thanks to UC Davis, for a nice story about our recent TPV work: \"Researchers are Creating a Brighter Future for Solar Cells — Without the Sun\" \nece.ucdavis.edu/news/researc... \n@ucdavisengineering.bsky.social",
     "facets": [
       {
         "features": [
@@ -350,7 +419,7 @@
   },
   {
     "cid": "bafyreiejlmk5nphqkzwa4v5tfuf4zc4kyjtcetv24x6wsitmxkyjv4pd6m",
-    "text": "Now introducing... The Technically Hip! \ud83c\udfb8\ud83c\udfa4\n\nCheck out our \u201crockumentary\u201d to see the unexpected side of the @ucdavis College of Engineering band, who teach, research and inspire the next generation of engineers. \n\n\ud83c\udfb6 Meet this truly \u201cHip\u201d ensemble: www.ucdavis.edu/magazine/uc-...\n\n#UCDavisEngineering",
+    "text": "Now introducing... The Technically Hip! 🎸🎤\n\nCheck out our “rockumentary” to see the unexpected side of the @ucdavis College of Engineering band, who teach, research and inspire the next generation of engineers. \n\n🎶 Meet this truly “Hip” ensemble: www.ucdavis.edu/magazine/uc-...\n\n#UCDavisEngineering",
     "facets": [
       {
         "features": [
@@ -449,7 +518,7 @@
   },
   {
     "cid": "legacy-69161c12c8d6ec4dd2c96555",
-    "text": "Read Tristan Deppe\u2019s latest work, titled \u201cMechanical power generation using Earth\u2019s ambient radiation\u201c, published in and featured on the front cover of Science Advances.\n\nThis work is featured in a UC Davis College of Engineering News article!",
+    "text": "Read Tristan Deppe’s latest work, titled “Mechanical power generation using Earth’s ambient radiation“, published in and featured on the front cover of Science Advances.\n\nThis work is featured in a UC Davis College of Engineering News article!",
     "facets": [],
     "createdAt": 1763056658239,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1763057159872-P3PTVQOZA6DRD75EEATZ/2025-11-12_Deppe.jpg",
@@ -467,7 +536,7 @@
   },
   {
     "cid": "legacy-682e2b51ad098b39ecc48bcb",
-    "text": "Calum Shelden\u2019s work on controlling the Casimir force featured in UC Davis College of Engineering news.",
+    "text": "Calum Shelden’s work on controlling the Casimir force featured in UC Davis College of Engineering news.",
     "facets": [],
     "createdAt": 1747856209480,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1747413931827-MXCKPVDWM2KGP46NMRPU/2025-05-16_UCDFacultyAward.PNG",
@@ -494,7 +563,7 @@
   },
   {
     "cid": "legacy-671b17de799e39199db8388a",
-    "text": "Read our latest article, \u201cThermoradiative Photovoltaics\u201c, published in and featured on the Cover of Optics and Photonics News!",
+    "text": "Read our latest article, “Thermoradiative Photovoltaics“, published in and featured on the Cover of Optics and Photonics News!",
     "facets": [],
     "createdAt": 1729828830543,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1729829044660-628LOGEGEVS5VEJW8EII/Deppe_Optica_2024.jpg",
@@ -503,7 +572,7 @@
   },
   {
     "cid": "legacy-66c8daffb9297227c17242c0",
-    "text": "Read Benjamin Spreng\u2019s latest work, titled \u201cCasimir repulsion with biased semiconductors\u201c, published in and featured on the front cover of Optica Quantum.",
+    "text": "Read Benjamin Spreng’s latest work, titled “Casimir repulsion with biased semiconductors“, published in and featured on the front cover of Optica Quantum.",
     "facets": [],
     "createdAt": 1724439295296,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1747414117495-8KA6XFUL44F43MEZEFPC/2024-_BensCover.png",
@@ -539,7 +608,7 @@
   },
   {
     "cid": "legacy-65122675f76cb3661399d8d7",
-    "text": "Read Tao Gong\u2019s latest work, titled \u201cBroadband Superabsorber Operating at 1500 C Using Dielectric Bilayers\u201c, published in and featured on the front cover of ACS Applied Optical Materials.",
+    "text": "Read Tao Gong’s latest work, titled “Broadband Superabsorber Operating at 1500 C Using Dielectric Bilayers“, published in and featured on the front cover of ACS Applied Optical Materials.",
     "facets": [],
     "createdAt": 1695429060950,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1695688459148-L63FG6WOV3TKA5JXXM4D/2023-09-08_Gong_ACSApplOptMater.png",
@@ -584,7 +653,7 @@
   },
   {
     "cid": "legacy-64af4edf092b04193d283c29",
-    "text": "New paper out in collaboration with Nader Engheta and I\u00f1igo Liberal, published in APS Physical Review Letters!\n\nNew paper out in collaboration with Nader Engheta and I\u00f1igo Liberal. Phys. Rev. Lett. 130, 196901 (2023) - Effect of Epsilon-Near-Zero Modes on the Casimir Interaction between Ultrathin Films. See the corresponding Twitter post here.",
+    "text": "New paper out in collaboration with Nader Engheta and Iñigo Liberal, published in APS Physical Review Letters!\n\nNew paper out in collaboration with Nader Engheta and Iñigo Liberal. Phys. Rev. Lett. 130, 196901 (2023) - Effect of Epsilon-Near-Zero Modes on the Casimir Interaction between Ultrathin Films. See the corresponding Twitter post here.",
     "facets": [],
     "createdAt": 1688260140686,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1689211923182-B6DN62GZHXZXGDJPNQ2R/2023-05-12_Gong_PRL.png",
@@ -629,7 +698,7 @@
   },
   {
     "cid": "legacy-631a74788f71a31aaccca910",
-    "text": "Kevin\u2019s paper on near-zero-index materials is now featured on the inside cover of Advanced Photonics Research!\n\nRead Kevin Palm\u2019s latest work, titled \u201cAchieving Scalable Near-Zero-Index Materials\u201c, evaluating the properties of commercial near-zero-index materials and their application to devices, published in and featured on the inside front cover of Advanced Photonics Research.",
+    "text": "Kevin’s paper on near-zero-index materials is now featured on the inside cover of Advanced Photonics Research!\n\nRead Kevin Palm’s latest work, titled “Achieving Scalable Near-Zero-Index Materials“, evaluating the properties of commercial near-zero-index materials and their application to devices, published in and featured on the inside front cover of Advanced Photonics Research.",
     "facets": [],
     "createdAt": 1662678136228,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1663887808136-GT723URCNULB8P9ROROD/Palm_APR_2022-min.jpg",
@@ -719,7 +788,7 @@
   },
   {
     "cid": "legacy-5d867273cada9941ed7bc26c",
-    "text": "Jeremy gives invited talk at OSA\u2019s Latin America Optics &amp; Photonics Conference\n\nProf. Munday gives an invited presentation at OSA\u2019s Latin America Optics &amp; Photonics Conference. Thanks to Gustavo and Alexandre for the invitation!",
+    "text": "Jeremy gives invited talk at OSA’s Latin America Optics &amp; Photonics Conference\n\nProf. Munday gives an invited presentation at OSA’s Latin America Optics &amp; Photonics Conference. Thanks to Gustavo and Alexandre for the invitation!",
     "facets": [],
     "createdAt": 1542657540198,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569092333652-B362NYF0BC1SI0U7BK4E/OSA.jpg",
@@ -728,7 +797,7 @@
   },
   {
     "cid": "legacy-5d86734928323b73030b547c",
-    "text": "Prof. Jeremy Munday receives DARPA Young Faculty Award\n\nAssociate Professor Jeremy Munday was selected by the Defense Advanced Research Projects Agency (DARPA) to receive a Young Faculty Award for his research project entitled \u201cEngineering the Quantum Vacuum.\u201d This award will lead to an exciting expansion of the groups work on vacuum fluctuation phenomena. A press release can be found here.",
+    "text": "Prof. Jeremy Munday receives DARPA Young Faculty Award\n\nAssociate Professor Jeremy Munday was selected by the Defense Advanced Research Projects Agency (DARPA) to receive a Young Faculty Award for his research project entitled “Engineering the Quantum Vacuum.” This award will lead to an exciting expansion of the groups work on vacuum fluctuation phenomena. A press release can be found here.",
     "facets": [],
     "createdAt": 1535742060332,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569092461408-P3G5KDL6C65J13XLESWL/DARPA.png",
@@ -737,7 +806,7 @@
   },
   {
     "cid": "legacy-5d86738dcada9941ed7bcd1b",
-    "text": "Munday gives two invited talks at SPIE Optics + Photonics conference in San Diego\n\nAssociate Professor Jeremy Munday was selected by the Defense Advanced Research Projects Agency (DARPA) to receive a Young Faculty Award for his research project entitled \u201cEngineering the Quantum Vacuum.\u201d This award will lead to an exciting expansion of the groups work on vacuum fluctuation phenomena. A press release can be found here.",
+    "text": "Munday gives two invited talks at SPIE Optics + Photonics conference in San Diego\n\nAssociate Professor Jeremy Munday was selected by the Defense Advanced Research Projects Agency (DARPA) to receive a Young Faculty Award for his research project entitled “Engineering the Quantum Vacuum.” This award will lead to an exciting expansion of the groups work on vacuum fluctuation phenomena. A press release can be found here.",
     "facets": [],
     "createdAt": 1535137320714,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569092517149-2TMD7XU2SS5ICE31N8U8/SPIE.jpg",
@@ -746,7 +815,7 @@
   },
   {
     "cid": "legacy-5d8673be9fe0d04df185a17b",
-    "text": "Our paper on multiscale functional imaging is now published in ACS Applied Materials and Interfaces\n\nRead Joe Garrett\u2019s latest work using harmonic mixing to tune the resolution of KPFM in-situ at ACS Applied Materials and Interfaces.",
+    "text": "Our paper on multiscale functional imaging is now published in ACS Applied Materials and Interfaces\n\nRead Joe Garrett’s latest work using harmonic mixing to tune the resolution of KPFM in-situ at ACS Applied Materials and Interfaces.",
     "facets": [],
     "createdAt": 1534964580801,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569092595675-4KS05D6HBCLPLMOWTN5R/Garrett_KPFM.gif",
@@ -755,7 +824,7 @@
   },
   {
     "cid": "legacy-5d867412577e3f782f5f9202",
-    "text": "New paper characterizing nanoscale reactions published and highlighted in media\n\nJoe, Tarun, and Kevin\u2019s latest paper has been published in Review of Scientific Instruments, and has been highlighted in AIP\u2019s SciLight: Novel apparatus simultaneously and fully characterizes nanoscale reactions.",
+    "text": "New paper characterizing nanoscale reactions published and highlighted in media\n\nJoe, Tarun, and Kevin’s latest paper has been published in Review of Scientific Instruments, and has been highlighted in AIP’s SciLight: Novel apparatus simultaneously and fully characterizes nanoscale reactions.",
     "facets": [],
     "createdAt": 1533755040188,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569092659340-2KJYRY50FNBX8XQ8DUDJ/AIP.jpg",
@@ -764,7 +833,7 @@
   },
   {
     "cid": "legacy-5d86747347c199512a292696",
-    "text": "Munday gives two invited talks at PIERS 2018\n\nJeremy gives two talks at the PIERS conference in Toyama, Japan discussing: 1) the use of hot electrons and photon recycling in novel optoelectronic devices and 2) the group\u2019s latest Casimir force experiments.",
+    "text": "Munday gives two invited talks at PIERS 2018\n\nJeremy gives two talks at the PIERS conference in Toyama, Japan discussing: 1) the use of hot electrons and photon recycling in novel optoelectronic devices and 2) the group’s latest Casimir force experiments.",
     "facets": [],
     "createdAt": 1533582300799,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d86747347c199512a292696/1569092751790/",
@@ -791,7 +860,7 @@
   },
   {
     "cid": "legacy-5d86754747c199512a2930be",
-    "text": "Our work on engineered photon recycling appears on the cover of Advanced Optical Materials\n\nFrom solar cells for power generation to microprocessors and laser pointers, semiconductor materials are a key ingredient in modern technology. However, the color of light that gets absorbed or emitted by these materials is usually fixed, placing limitations on their functionality. Now researchers in the group of Prof. Jeremy Munday, in collaboration with the groups of Prof. Marina Leite and Prof. Edo Waks, have found a way to circumvent this limitation through the use of controlled photon recycling, i.e.the process by which emitted photons are redirected back into the semiconductor to affect its electrical response. Using this effect, the authors demonstrate tunable diodes, improved solar cells, and actively controlled, gate-free current modulators. This work, entitled \u201cActive control of photon recycling for tunable optoelectronic materials\u201d, is featured as the cover article of Advance Optical Materials for April 5, 2018. A link to the ECE news story can be found here.",
+    "text": "Our work on engineered photon recycling appears on the cover of Advanced Optical Materials\n\nFrom solar cells for power generation to microprocessors and laser pointers, semiconductor materials are a key ingredient in modern technology. However, the color of light that gets absorbed or emitted by these materials is usually fixed, placing limitations on their functionality. Now researchers in the group of Prof. Jeremy Munday, in collaboration with the groups of Prof. Marina Leite and Prof. Edo Waks, have found a way to circumvent this limitation through the use of controlled photon recycling, i.e.the process by which emitted photons are redirected back into the semiconductor to affect its electrical response. Using this effect, the authors demonstrate tunable diodes, improved solar cells, and actively controlled, gate-free current modulators. This work, entitled “Active control of photon recycling for tunable optoelectronic materials”, is featured as the cover article of Advance Optical Materials for April 5, 2018. A link to the ECE news story can be found here.",
     "facets": [],
     "createdAt": 1524078600560,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569093008066-LUIRVUYQ0FU9KJHCRKT1/Adv_Opt_Mats_CoverArt.png",
@@ -809,7 +878,7 @@
   },
   {
     "cid": "legacy-5d8675e4909c041b7c7f3056",
-    "text": "Lisa\u2019s paper on hot carrier photodetectors is featured on the cover of ACS Photonics\n\nGraduate student Lisa Krayer\u2019s paper on Near-IR Imaging Based on Hot Carrier Generation in Nanometer-Scale Optical Coatings is on the cover of the February issue of ACS Photonics. Congratulations, Lisa!",
+    "text": "Lisa’s paper on hot carrier photodetectors is featured on the cover of ACS Photonics\n\nGraduate student Lisa Krayer’s paper on Near-IR Imaging Based on Hot Carrier Generation in Nanometer-Scale Optical Coatings is on the cover of the February issue of ACS Photonics. Congratulations, Lisa!",
     "facets": [],
     "createdAt": 1519243920621,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569093143849-E10JEA2ZTYS78WDYMGSC/ACSPhotonics_Coverart_Krayer.jpg",
@@ -827,7 +896,7 @@
   },
   {
     "cid": "legacy-5d8676d4f21dbd6d8c8b593b",
-    "text": "Our measurement of the Casimir force between two spheres is published in PRL\n\nOur latest work revealing the Casimir force between two spheres is published in Physical Review Letters and is featured in APS\u2019s Physic Synopsis and at UMD in ECE, Engineering, and Physics. Congratulations to first author Joe Garrett!",
+    "text": "Our measurement of the Casimir force between two spheres is published in PRL\n\nOur latest work revealing the Casimir force between two spheres is published in Physical Review Letters and is featured in APS’s Physic Synopsis and at UMD in ECE, Engineering, and Physics. Congratulations to first author Joe Garrett!",
     "facets": [],
     "createdAt": 1516911300455,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569093492358-EHOM6ISPMZTXNRQNF3W6/Garrett_PRL_Casimir.png",
@@ -872,7 +941,7 @@
   },
   {
     "cid": "legacy-5d8677fe28323b73030b8185",
-    "text": "Our latest work enhancing the Casimir torque is published in Physical Review Letters\n\nQuantum fluctuations of electromagnetic waves can result in a torque between two optically anisotropic materials. In David\u2019s recent paper (entitled \u201cCasimir-Lifshitz Torque Enhancement by Retardation and Intervening Dielectrics\u201d), we show that a full calculation of this phenomenon taking into account the finite speed of light shows that the torque is stronger than expected and can be increased further with a dielectric spacer layer between the objects. This paper can be found in Phys. Rev. Lett. 119, 183001 (2017), and a press release can be found here.",
+    "text": "Our latest work enhancing the Casimir torque is published in Physical Review Letters\n\nQuantum fluctuations of electromagnetic waves can result in a torque between two optically anisotropic materials. In David’s recent paper (entitled “Casimir-Lifshitz Torque Enhancement by Retardation and Intervening Dielectrics”), we show that a full calculation of this phenomenon taking into account the finite speed of light shows that the torque is stronger than expected and can be increased further with a dielectric spacer layer between the objects. This paper can be found in Phys. Rev. Lett. 119, 183001 (2017), and a press release can be found here.",
     "facets": [],
     "createdAt": 1509913260895,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569093661126-NI9HCGLHKHDQ2RD7XU5M/Casimir_PhysRevLetts.png",
@@ -890,7 +959,7 @@
   },
   {
     "cid": "legacy-5d8678ff1c3240490b1a9817",
-    "text": "Lisa gives invited talk as ECS meeting\n\nLisa Krayer gives an invited talk entitled \u201cIncreasing the Bandwidth of Semiconductor Photodetectors through Hot Carrier Generation in Nanometer-Scale Optical Coatings\u201d at the 232nd Electrochemical Society (ECS) Meeting.",
+    "text": "Lisa gives invited talk as ECS meeting\n\nLisa Krayer gives an invited talk entitled “Increasing the Bandwidth of Semiconductor Photodetectors through Hot Carrier Generation in Nanometer-Scale Optical Coatings” at the 232nd Electrochemical Society (ECS) Meeting.",
     "facets": [],
     "createdAt": 1507317900041,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569093913427-4JKPMBQUJXPZMY1EFG6V/ECS.jpg",
@@ -899,7 +968,7 @@
   },
   {
     "cid": "legacy-5d867931386d365809d6844f",
-    "text": "Munday co-organizes National Academy of Engineering FOE session on \u201cEnergy strategies to power our future\u201d\n\nMunday participates in the National Academy of Engineering\u2019s 2017 US Frontiers of Engineering Symposium and co-organizes a session on \u201cEnergy strategies to power our future\u201d with Katherine Dynes (NREL). Thanks to Tim Heidel, Bouchra Bouqata, Mariana Bertoni, and Khurram Afridi for excellent presentations!",
+    "text": "Munday co-organizes National Academy of Engineering FOE session on “Energy strategies to power our future”\n\nMunday participates in the National Academy of Engineering’s 2017 US Frontiers of Engineering Symposium and co-organizes a session on “Energy strategies to power our future” with Katherine Dynes (NREL). Thanks to Tim Heidel, Bouchra Bouqata, Mariana Bertoni, and Khurram Afridi for excellent presentations!",
     "facets": [],
     "createdAt": 1506626760823,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569093977402-YFTK1DPS1IMQUU9TBZDR/Natl_Acad_of_Eng.png",
@@ -908,7 +977,7 @@
   },
   {
     "cid": "legacy-5d86797647c199512a295cc8",
-    "text": "Munday Receives 2017 Clark School Junior Faculty Outstanding Research Award\n\nProf. Jeremy Munday (ECE/IREAP) was selected to receive the&nbsp;2017 Clark School Junior Faculty Outstanding Research Award.This award is given to a faculty member at or below the rank of Associate Professor, in recognition of research impact and quality during the past 5 years. This award recognizes Jeremy\u2019s research contributions in the fields of optics, photonics, nanosystems, and energy.",
+    "text": "Munday Receives 2017 Clark School Junior Faculty Outstanding Research Award\n\nProf. Jeremy Munday (ECE/IREAP) was selected to receive the&nbsp;2017 Clark School Junior Faculty Outstanding Research Award.This award is given to a faculty member at or below the rank of Associate Professor, in recognition of research impact and quality during the past 5 years. This award recognizes Jeremy’s research contributions in the fields of optics, photonics, nanosystems, and energy.",
     "facets": [],
     "createdAt": 1505935680402,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569094107628-6PD3LIHRUM5ZFVA94CYD/Jeremy_Promophoto.jpg",
@@ -926,7 +995,7 @@
   },
   {
     "cid": "legacy-5d86802133509f3b96ebb93b",
-    "text": "Joe Garrett successfully defends his thesis on experimental observations of the Casimir force\n\nCongratulations to the newest doctor \u2013 great defense Joe!",
+    "text": "Joe Garrett successfully defends his thesis on experimental observations of the Casimir force\n\nCongratulations to the newest doctor – great defense Joe!",
     "facets": [],
     "createdAt": 1503086100528,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569095726853-JV2MQODR801C45LKVTZQ/Garrett_Defense.jpg",
@@ -935,7 +1004,7 @@
   },
   {
     "cid": "legacy-5d86804f4c9f82148ef10854",
-    "text": "Munday gives invited talk on switchable solar sails at SPIE Optics + Photonics\n\nAs part of the Optical Systems for Deep Space Missions session at SPIE\u2019s Optics + Photonics conference, Prof. Munday presents the group\u2019s recent work on solar sail actuation using switchable optical materials.",
+    "text": "Munday gives invited talk on switchable solar sails at SPIE Optics + Photonics\n\nAs part of the Optical Systems for Deep Space Missions session at SPIE’s Optics + Photonics conference, Prof. Munday presents the group’s recent work on solar sail actuation using switchable optical materials.",
     "facets": [],
     "createdAt": 1502308560389,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569095774734-3MA8O810G8CNKXWJ7GU0/SPIE.jpg",
@@ -944,7 +1013,7 @@
   },
   {
     "cid": "legacy-5d86809d568f147bc7812e4b",
-    "text": "New paper on the effect of lateral tip motion in KPFM published in APL\n\nJoe\u2019s latest work on KPFM describing the effect of lateral tip motion on the resolving power of multifrequency methods (including versions of KPFM) is published in Applied Physics Letters.",
+    "text": "New paper on the effect of lateral tip motion in KPFM published in APL\n\nJoe’s latest work on KPFM describing the effect of lateral tip motion on the resolving power of multifrequency methods (including versions of KPFM) is published in Applied Physics Letters.",
     "facets": [],
     "createdAt": 1501790220923,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569095849523-P1UY27KNW4GFGYOJ005S/KPFM_APL_Garrett.jpg",
@@ -953,7 +1022,7 @@
   },
   {
     "cid": "legacy-5d8680e4a214d929019a377c",
-    "text": "Invited talk on Optoelectronic Metasurfaces is presented by Prof. Munday at META\u201917\n\nProf. Munday presents the group\u2019s latest work on using hot electrons in designer materials at META\u201917: The 8th International Conference on Metamaterials, Photonic Crystals and Plasmonics in Incheon, Korea.",
+    "text": "Invited talk on Optoelectronic Metasurfaces is presented by Prof. Munday at META’17\n\nProf. Munday presents the group’s latest work on using hot electrons in designer materials at META’17: The 8th International Conference on Metamaterials, Photonic Crystals and Plasmonics in Incheon, Korea.",
     "facets": [],
     "createdAt": 1501099080795,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569095922193-NPHQGKETWVX57XBIGPXZ/META2017.jpg",
@@ -998,7 +1067,7 @@
   },
   {
     "cid": "legacy-5d86820b4c9f82148ef11df7",
-    "text": "University President Loh highlights Munday Lab\u2019s work in annual spring video\n\nUniversity of Maryland President Wallace Loh highlights the Munday Lab\u2019s work on switchable solar smart windows in his spring video entitled \u201cTurn Imagination into Innovation.\u201d The video can be found here (see the 2:05 minute mark).",
+    "text": "University President Loh highlights Munday Lab’s work in annual spring video\n\nUniversity of Maryland President Wallace Loh highlights the Munday Lab’s work on switchable solar smart windows in his spring video entitled “Turn Imagination into Innovation.” The video can be found here (see the 2:05 minute mark).",
     "facets": [],
     "createdAt": 1493496180580,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569096218680-EA359TMB0JDYJOIUWULF/Switchable_Solar_Window_2.png",
@@ -1016,7 +1085,7 @@
   },
   {
     "cid": "legacy-5d86827c8cd79e150494f69e",
-    "text": "Jeremy gives seminar at the Laboratory for Physical Sciences discussing photon control and steering\n\nProf. Munday\u2019s talk was entitled \u201cSteering photons: from IR detectors and smart windows to space propulsion.\u201d Thanks to Paul Kolb for the invitation and tour.",
+    "text": "Jeremy gives seminar at the Laboratory for Physical Sciences discussing photon control and steering\n\nProf. Munday’s talk was entitled “Steering photons: from IR detectors and smart windows to space propulsion.” Thanks to Paul Kolb for the invitation and tour.",
     "facets": [],
     "createdAt": 1492805100599,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569096326763-YRL80CEKQ6P77CE966ED/LPS.jpg",
@@ -1034,7 +1103,7 @@
   },
   {
     "cid": "legacy-5d86831f4d31bb1093e870c3",
-    "text": "David\u2019s new paper discusses repulsive Casimir forces between identical birefringent materials\n\nOur latest work in Physical Review A shows how two identical materials can be repelled by the Casimir when a specific set of conditions are met. Good work, David!",
+    "text": "David’s new paper discusses repulsive Casimir forces between identical birefringent materials\n\nOur latest work in Physical Review A shows how two identical materials can be repelled by the Casimir when a specific set of conditions are met. Good work, David!",
     "facets": [],
     "createdAt": 1489435680906,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d86831f4d31bb1093e870c3/1569096506768/",
@@ -1052,7 +1121,7 @@
   },
   {
     "cid": "legacy-5d86833fd9e68826203f838f",
-    "text": "Solar sail work featured on the cover of Advanced Optical Materials\n\nDakang\u2019s work on electrically switchable solar sails is featured on the front cover of Advanced Optical Materials \u2013 Congratulations! The work was also highlighted in Advanced Science News in an article entitled \u201cTravelling through Space with Solar Sails\u201d and on the UMD ECE website.",
+    "text": "Solar sail work featured on the cover of Advanced Optical Materials\n\nDakang’s work on electrically switchable solar sails is featured on the front cover of Advanced Optical Materials – Congratulations! The work was also highlighted in Advanced Science News in an article entitled “Travelling through Space with Solar Sails” and on the UMD ECE website.",
     "facets": [],
     "createdAt": 1487279340186,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569096564884-91IYUP3TKH4CS8805QTM/AdvOptMats_CoverArt_solarsail.png",
@@ -1061,7 +1130,7 @@
   },
   {
     "cid": "legacy-5d8683c7a214d929019a5397",
-    "text": "Murray\u2019s work on self-powered switchable solar windows featured on cover of ACS Photonics\n\nCongratulations to Joe Murray, whose work is featured on the first issue of ACS Photonics of 2017!",
+    "text": "Murray’s work on self-powered switchable solar windows featured on cover of ACS Photonics\n\nCongratulations to Joe Murray, whose work is featured on the first issue of ACS Photonics of 2017!",
     "facets": [],
     "createdAt": 1484860260922,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569096673750-UF94O033MF1IIF5JIETK/ACSPhotonics_CoverArt_switchablewindow.jpg",
@@ -1070,7 +1139,7 @@
   },
   {
     "cid": "legacy-5d8683ed76e20a6b655f8b45",
-    "text": "Latest work on hot carriers and plasmonics is presented by Prof. Munday in an invited talk at the PQE conference\n\nThanks to Peter and Naomi for the invitation and for putting together excellent sessions at the 2017 Winter Colloquium on the Physics of Quantum Electronics \u2013 PQE.",
+    "text": "Latest work on hot carriers and plasmonics is presented by Prof. Munday in an invited talk at the PQE conference\n\nThanks to Peter and Naomi for the invitation and for putting together excellent sessions at the 2017 Winter Colloquium on the Physics of Quantum Electronics – PQE.",
     "facets": [],
     "createdAt": 1484255460273,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569096709811-XXHZS5NXS18WLX2FJC1D/hotcarriers.jpg",
@@ -1079,7 +1148,7 @@
   },
   {
     "cid": "legacy-5d86842e33509f3b96ebe57c",
-    "text": "Dakang successfully defends his PhD thesis on radiation pressure measurements and switchable photonic devices\n\nCongratulations to Dr. Ma, who successfully defended his thesis entitled, \u201cMeasurement of radiation pressure and tailored momentum transfer through switchable photonic devices.\u201d",
+    "text": "Dakang successfully defends his PhD thesis on radiation pressure measurements and switchable photonic devices\n\nCongratulations to Dr. Ma, who successfully defended his thesis entitled, “Measurement of radiation pressure and tailored momentum transfer through switchable photonic devices.”",
     "facets": [],
     "createdAt": 1481749920090,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569096761164-KK2ARYH1QQ7EDS8VD0I2/Dakang_Defense.jpg",
@@ -1097,7 +1166,7 @@
   },
   {
     "cid": "legacy-5d86847f3e8afb15cfc31e96",
-    "text": "Jeremy gives invited talk at MRS about tunable photonic elements for solar\n\nProf. Munday gives a presentation entitled, \u201cTunable photonic elements for solar energy\u201d at the Fall meeting of the Materials Research Society fall meeting in Boston, MA. The talk was part of Symposium Symposium NM4: Nanomaterials-Based Solar Energy Conversion and described the lab\u2019s recent work on switchable materials for smart windows, solar sails, and tunable photon recycling.",
+    "text": "Jeremy gives invited talk at MRS about tunable photonic elements for solar\n\nProf. Munday gives a presentation entitled, “Tunable photonic elements for solar energy” at the Fall meeting of the Materials Research Society fall meeting in Boston, MA. The talk was part of Symposium Symposium NM4: Nanomaterials-Based Solar Energy Conversion and described the lab’s recent work on switchable materials for smart windows, solar sails, and tunable photon recycling.",
     "facets": [],
     "createdAt": 1480626840184,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569096841489-ZE52CXWL5XIA3VL189D9/MRS.jpg",
@@ -1106,7 +1175,7 @@
   },
   {
     "cid": "legacy-5d8684bb8cd79e1504950b46",
-    "text": "Our work on self-powered solar smart windows featured in ACS pressroom\n\nJoe Murray\u2019s work on &nbsp;solar smart windows that can power themselves is published online in&nbsp;ACS Photonics&nbsp;and is featured in the&nbsp;ACS pressroom. Accompanying&nbsp;video&nbsp;shows device operation. Great job!December update: Work was also picked up by&nbsp;Chemical and Engineering News.",
+    "text": "Our work on self-powered solar smart windows featured in ACS pressroom\n\nJoe Murray’s work on &nbsp;solar smart windows that can power themselves is published online in&nbsp;ACS Photonics&nbsp;and is featured in the&nbsp;ACS pressroom. Accompanying&nbsp;video&nbsp;shows device operation. Great job!December update: Work was also picked up by&nbsp;Chemical and Engineering News.",
     "facets": [],
     "createdAt": 1479676500606,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569096901136-3GWNJNUNG8K0NH52SF68/Smart_window.png",
@@ -1124,7 +1193,7 @@
   },
   {
     "cid": "legacy-5d8686074c9f82148ef14306",
-    "text": "Joe Murray\u2019s light trapping work on the Cover of the Journal of Applied Physics\n\nThe Oct 28th cover of the Journal of Applied Physics features Joe Murray\u2019s work on a generalized approached to calculating scattering and absorption solar cells. The image is a true-color photograph take from his experimental setup that shows the specular and diffuse components of reflectivity inside a material upon reflection from random nanoscale dielectric scatterers. The wavelength dependence of the scattering is used to model the absorption within multilayer stacks. Great job, Joe!",
+    "text": "Joe Murray’s light trapping work on the Cover of the Journal of Applied Physics\n\nThe Oct 28th cover of the Journal of Applied Physics features Joe Murray’s work on a generalized approached to calculating scattering and absorption solar cells. The image is a true-color photograph take from his experimental setup that shows the specular and diffuse components of reflectivity inside a material upon reflection from random nanoscale dielectric scatterers. The wavelength dependence of the scattering is used to model the absorption within multilayer stacks. Great job, Joe!",
     "facets": [],
     "createdAt": 1477513260906,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569097255754-GHOMO6GGXVB7QE6NUYJE/JAP_coverart_lighttrapping.png",
@@ -1133,7 +1202,7 @@
   },
   {
     "cid": "legacy-5d868673c4d3083432f44978",
-    "text": "Our microresonator PV work featured on Cover of ACS Applied Materials &amp; Interfaces\n\nThe Oct. 12 issue of ACS Applied Materials &amp; Interfaces features our group\u2019s work on microresonator coatings for PV on the front cover. A news story also appears on the UMD ECEwebsite and was issued a press release. Great job everyone!",
+    "text": "Our microresonator PV work featured on Cover of ACS Applied Materials &amp; Interfaces\n\nThe Oct. 12 issue of ACS Applied Materials &amp; Interfaces features our group’s work on microresonator coatings for PV on the front cover. A news story also appears on the UMD ECEwebsite and was issued a press release. Great job everyone!",
     "facets": [],
     "createdAt": 1476562920439,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569097345484-34AO53VENBZ96OGFMMDG/ACSApplied_coverart_microresonator.jpg",
@@ -1142,7 +1211,7 @@
   },
   {
     "cid": "legacy-5d8686b633509f3b96ec01b2",
-    "text": "Jeremy gives an invited talk at PRiME-ECS meeting\n\nJeremy presented a talk entitled \u201cGreen Solutions for Next Generation Photovoltaics: Using Wood, Glass, and Aluminum\u201d for the session \u201cPhotovoltaics for the 21st century\u201d at the PRiME, ECS (electrochemical society) meeting. Thanks to Jung-Yong Lee for organizing the session!",
+    "text": "Jeremy gives an invited talk at PRiME-ECS meeting\n\nJeremy presented a talk entitled “Green Solutions for Next Generation Photovoltaics: Using Wood, Glass, and Aluminum” for the session “Photovoltaics for the 21st century” at the PRiME, ECS (electrochemical society) meeting. Thanks to Jung-Yong Lee for organizing the session!",
     "facets": [],
     "createdAt": 1476044580542,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569097420617-VRZUB9PAXZ1EKTX4WGEA/PRiME_ECS_2016.jpg",
@@ -1196,7 +1265,7 @@
   },
   {
     "cid": "legacy-5d8687eaa214d929019a7f48",
-    "text": "Invited talk discusses the interplay between simulations and experiments at PIERS 2016\n\nJeremy gives an invited talk at PIERS in Shanghai for the session \u201cOptoelectronic simulation technologies for photoconversion devices.\u201d Thanks to Zongfu Yu and Xiaofeng Li for the invitation!",
+    "text": "Invited talk discusses the interplay between simulations and experiments at PIERS 2016\n\nJeremy gives an invited talk at PIERS in Shanghai for the session “Optoelectronic simulation technologies for photoconversion devices.” Thanks to Zongfu Yu and Xiaofeng Li for the invitation!",
     "facets": [],
     "createdAt": 1471292880664,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d8687eaa214d929019a7f48/1569097731710/",
@@ -1205,7 +1274,7 @@
   },
   {
     "cid": "legacy-5d8688154c9f82148ef15abd",
-    "text": "Jeremy gives an invited talk at META\u201916",
+    "text": "Jeremy gives an invited talk at META’16",
     "facets": [],
     "createdAt": 1469651340478,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569097757057-P5J9VUDKO19FWFJD6TAT/META_2016.jpg",
@@ -1241,7 +1310,7 @@
   },
   {
     "cid": "legacy-5d8688dfaf1b875faf074456",
-    "text": "Jeremy give ECE Photonics seminar at Rice University\n\nJeremy delivers ECE Photonics Seminar at Rice University. Thanks to Isabell for organizing the visit \u2013 thoroughly enjoyed!",
+    "text": "Jeremy give ECE Photonics seminar at Rice University\n\nJeremy delivers ECE Photonics Seminar at Rice University. Thanks to Isabell for organizing the visit – thoroughly enjoyed!",
     "facets": [],
     "createdAt": 1463517120869,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d8688dfaf1b875faf074456/1569097976947/",
@@ -1277,7 +1346,7 @@
   },
   {
     "cid": "legacy-5d8689b0ee28af6ee0bfdf76",
-    "text": "Jeremy give invited talk at conference in Hong Kong\n\nJeremy presents the group\u2019s latest work on Casimir forces and torques at the conference on Casimir and van der Waals Physics: Progress and Prospects at the Hong Kong University of Science and Technology. Thanks to Ho Bun, Diego, Daniel and George for the invitation!",
+    "text": "Jeremy give invited talk at conference in Hong Kong\n\nJeremy presents the group’s latest work on Casimir forces and torques at the conference on Casimir and van der Waals Physics: Progress and Prospects at the Hong Kong University of Science and Technology. Thanks to Ho Bun, Diego, Daniel and George for the invitation!",
     "facets": [],
     "createdAt": 1461616560631,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569098194506-TYRZHEMCH3P9K4TGTWRH/Casimir_spheres.jpg",
@@ -1295,7 +1364,7 @@
   },
   {
     "cid": "legacy-5d868a24201ab12e1d3a0dda",
-    "text": "Munday Lab well-represented at APS March Meeting\n\nWith the APS March meeting in Baltimore this year, the Munday Lab is out in full force with presentations by nearly all group members. Here\u2019s a brief breakdown of the presentation schedule (in order of appearance):Monday: Lisa and TaoTuesday: Sean and DakangWednesday: Dan, Dongheon, Taqiyyah, Yunlu, and Joe M.Friday: Joe G. and David",
+    "text": "Munday Lab well-represented at APS March Meeting\n\nWith the APS March meeting in Baltimore this year, the Munday Lab is out in full force with presentations by nearly all group members. Here’s a brief breakdown of the presentation schedule (in order of appearance):Monday: Lisa and TaoTuesday: Sean and DakangWednesday: Dan, Dongheon, Taqiyyah, Yunlu, and Joe M.Friday: Joe G. and David",
     "facets": [],
     "createdAt": 1457987880255,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569098291999-O7CHUL19UE5O5HW95HCE/APS.gif",
@@ -1322,7 +1391,7 @@
   },
   {
     "cid": "legacy-5d868aa4b4ee2e33c28db8fe",
-    "text": "Jeremy gives invited talk at SPIE\u2019s Photonics West\n\nJeremy gives invited talk on hot carrier effects at Photonics West as part of the session on Physics, Simulation, and Photonic Engineering of Photovoltaic Devices. Many thanks to Alexandre Freundlich and Laurent Lombez for the invitation!",
+    "text": "Jeremy gives invited talk at SPIE’s Photonics West\n\nJeremy gives invited talk on hot carrier effects at Photonics West as part of the session on Physics, Simulation, and Photonic Engineering of Photovoltaic Devices. Many thanks to Alexandre Freundlich and Laurent Lombez for the invitation!",
     "facets": [],
     "createdAt": 1455831600393,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569098421339-3INMZAYG3ZGK5P9C574X/SPIE.jpg",
@@ -1340,7 +1409,7 @@
   },
   {
     "cid": "legacy-5d868af8d011222e4e7283c0",
-    "text": "Jeremy gives CNAM Colloquium on \u201cThe Physics and Photonics of Next Generation Solar Cells\u201d\n\nJeremy gives talk entitled \u201cThe Physics and Photonics of Next Generation Solar Cells\u201d for the Center for Nanophysics and Advanced Materials (CNAM) Colloquium. Thanks to Victor Yakovenko and Chris Lobb for hosting me!",
+    "text": "Jeremy gives CNAM Colloquium on “The Physics and Photonics of Next Generation Solar Cells”\n\nJeremy gives talk entitled “The Physics and Photonics of Next Generation Solar Cells” for the Center for Nanophysics and Advanced Materials (CNAM) Colloquium. Thanks to Victor Yakovenko and Chris Lobb for hosting me!",
     "facets": [],
     "createdAt": 1454017260290,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d868af8d011222e4e7283c0/1569098515879/",
@@ -1349,7 +1418,7 @@
   },
   {
     "cid": "legacy-5d868b44d39e4217ae0bfa3b",
-    "text": "Tao\u2019s work highlighted as Top Downloads in Optical Materials Express\n\nOur recent paper \u201cMaterials for hot carrier plasmonics [Invited]\u201d is listed in Top Downloads from December 2015 from Optical Materials Express.",
+    "text": "Tao’s work highlighted as Top Downloads in Optical Materials Express\n\nOur recent paper “Materials for hot carrier plasmonics [Invited]” is listed in Top Downloads from December 2015 from Optical Materials Express.",
     "facets": [],
     "createdAt": 1452980580526,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569098581839-PMDO1SCL4CJOQKYK4G6G/OSA.png",
@@ -1358,7 +1427,7 @@
   },
   {
     "cid": "legacy-5d868b1c08e8f93e26578ca3",
-    "text": "New paper on light trapping experiments published\n\nJoe Murray\u2019s paper on experimentally determining internal light scattering and trapping within a material is published in the Journal of Applied Physics. Good job Joe!",
+    "text": "New paper on light trapping experiments published\n\nJoe Murray’s paper on experimentally determining internal light scattering and trapping within a material is published in the Journal of Applied Physics. Good job Joe!",
     "facets": [],
     "createdAt": 1452980520521,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d868b1c08e8f93e26578ca3/1569098550299/",
@@ -1385,7 +1454,7 @@
   },
   {
     "cid": "legacy-5d868bdfb4c00647141779ee",
-    "text": "We\u2019re on twitter!\n\nThe Munday Lab can now be found on twitter: @MundayLab .",
+    "text": "We’re on twitter!\n\nThe Munday Lab can now be found on twitter: @MundayLab .",
     "facets": [],
     "createdAt": 1449611100130,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569098731759-PKI0I9ELTC95PJA548ND/twitter.jpg",
@@ -1412,7 +1481,7 @@
   },
   {
     "cid": "legacy-5d868c7e8d1f8530e793ea75",
-    "text": "New paper published in Nature Publishing Group\u2019s Scientific Reports\n\nYunlu and Tao\u2019s new paper describing the Shockley-Queisser limit for nanostructured solar cells was published in Scientific Reports and is highlighted here. Great job!",
+    "text": "New paper published in Nature Publishing Group’s Scientific Reports\n\nYunlu and Tao’s new paper describing the Shockley-Queisser limit for nanostructured solar cells was published in Scientific Reports and is highlighted here. Great job!",
     "facets": [],
     "createdAt": 1441226880105,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569098885974-LW51QUHCLX82S4LY8XKB/SciRep.jpg",
@@ -1430,7 +1499,7 @@
   },
   {
     "cid": "legacy-5d868d09d39e4217ae0c0b28",
-    "text": "Munday Lab receives NASA funding for reflective control devices\n\nThe Munday Lab was selected as one of 8 partnerships funded through NASA\u2019s 2015 Smallsat Technology Program. They will be developing reflective control devices for propellentless attitude control of solar sails.",
+    "text": "Munday Lab receives NASA funding for reflective control devices\n\nThe Munday Lab was selected as one of 8 partnerships funded through NASA’s 2015 Smallsat Technology Program. They will be developing reflective control devices for propellentless attitude control of solar sails.",
     "facets": [],
     "createdAt": 1439671800229,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569099028291-LZKQPT4H1OYFALGOELIQ/Nasa-logo.gif",
@@ -1439,7 +1508,7 @@
   },
   {
     "cid": "legacy-5d868cd808e8f93e26579b27",
-    "text": "Undergraduate Taqiyyah publishes paper in Optics Express\n\nTaqiyyah is first author of a paper in a special issue of Optics Express on \u201cControl of Radiative Processes for Energy Conversion and Harvesting.\u201d Her paper is entitled, \u201cImproving photovoltaic performance through radiative cooling in both terrestrial and extraterrestrial environments.\u201d Great job, Taqiyyah!",
+    "text": "Undergraduate Taqiyyah publishes paper in Optics Express\n\nTaqiyyah is first author of a paper in a special issue of Optics Express on “Control of Radiative Processes for Energy Conversion and Harvesting.” Her paper is entitled, “Improving photovoltaic performance through radiative cooling in both terrestrial and extraterrestrial environments.” Great job, Taqiyyah!",
     "facets": [],
     "createdAt": 1439671740542,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569098980570-51E42GC6LUSF6CAS9LFW/osa-oe.jpg",
@@ -1448,7 +1517,7 @@
   },
   {
     "cid": "legacy-5d868eb752e6f317f7cc1b05",
-    "text": "Jeremy gives seminar for undergraduate researchers\n\nAs part of an NSF funded undergraduate research program at the University of Maryland\u2019s Institute for Research in Electronics and Applied Physics, Jeremy presented a seminar describing the importance and excitement of undergraduate research to students participating the the TREND (Training and Research Experiences in Nonlinear Dynamics) program.",
+    "text": "Jeremy gives seminar for undergraduate researchers\n\nAs part of an NSF funded undergraduate research program at the University of Maryland’s Institute for Research in Electronics and Applied Physics, Jeremy presented a seminar describing the importance and excitement of undergraduate research to students participating the the TREND (Training and Research Experiences in Nonlinear Dynamics) program.",
     "facets": [],
     "createdAt": 1438117020740,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569099458047-3J4V7V61D5G32EHGU0U4/NSF.jpg",
@@ -1484,7 +1553,7 @@
   },
   {
     "cid": "legacy-5d868fd108e8f93e2657bfdd",
-    "text": "Joe\u2019s Casimir force paper on the cover of the Journal of Physics: Condensed Matter\n\nThe June 2015 issue of the Journal of Physics: Condensed Matter, is a special issue on Casimir Physics. Joe Garrett\u2019s paper on the use of KPFM to determine artifacts in Casimir force measurements was chosen as an IOP Select article and was also featured on the cover of the issue. Congratulations!",
+    "text": "Joe’s Casimir force paper on the cover of the Journal of Physics: Condensed Matter\n\nThe June 2015 issue of the Journal of Physics: Condensed Matter, is a special issue on Casimir Physics. Joe Garrett’s paper on the use of KPFM to determine artifacts in Casimir force measurements was chosen as an IOP Select article and was also featured on the cover of the issue. Congratulations!",
     "facets": [],
     "createdAt": 1433192520716,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569099753803-ONA4BMVLGF7E5YL9HFBD/JoP_CM_2015.png",
@@ -1493,7 +1562,7 @@
   },
   {
     "cid": "legacy-5d86901db4ee2e33c28df371",
-    "text": "Jeremy gives Earth Day seminar\n\nAs part of the University of Maryland\u2019s Earth Day Celebration, Jeremy participated in the Clark School\u2019s 2015 Sustainability Workshop on \u201cEngineering Grid Resiliency for a Changing Climate.\u201d Slides from his presentation, entitled \u201cHigh Efficiency PV for Distributed Generation,\u201d can be found here.",
+    "text": "Jeremy gives Earth Day seminar\n\nAs part of the University of Maryland’s Earth Day Celebration, Jeremy participated in the Clark School’s 2015 Sustainability Workshop on “Engineering Grid Resiliency for a Changing Climate.” Slides from his presentation, entitled “High Efficiency PV for Distributed Generation,” can be found here.",
     "facets": [],
     "createdAt": 1429736580866,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569099817614-YLZNJBZHE53AABONQ9RG/Earth.jpg",
@@ -1502,7 +1571,7 @@
   },
   {
     "cid": "legacy-5d8690482367b83b50773fb8",
-    "text": "Dongheon receives the Graduate Dean\u2019s Dissertation Fellowship and the Ann G. Wylie Dissertation Fellowship\n\nCongratulations to Dongheon, who was selected to receive both the Graduate Dean\u2019s Dissertation Fellowship and the Ann G. Wylie Dissertation Fellowship. The Graduate Dean\u2019s Dissertation Fellowship is award to only 10 students out of approximately 4,000 doctoral students pursuing studies at the University of Maryland.",
+    "text": "Dongheon receives the Graduate Dean’s Dissertation Fellowship and the Ann G. Wylie Dissertation Fellowship\n\nCongratulations to Dongheon, who was selected to receive both the Graduate Dean’s Dissertation Fellowship and the Ann G. Wylie Dissertation Fellowship. The Graduate Dean’s Dissertation Fellowship is award to only 10 students out of approximately 4,000 doctoral students pursuing studies at the University of Maryland.",
     "facets": [],
     "createdAt": 1429304640308,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d8690482367b83b50773fb8/1569099879575/",
@@ -1529,7 +1598,7 @@
   },
   {
     "cid": "legacy-5d86910652e6f317f7cc32c9",
-    "text": "Jeremy receives OSA Lomb Medal\n\nJeremy Munday was selected to receive the 2015 OSA Adolph Lomb Medal for \u201cpioneering contributions to plasmonic and photonic light-trapping in solar cells.\u201d The OSA press release can be found here. See also press releases from ECE and IREAP .",
+    "text": "Jeremy receives OSA Lomb Medal\n\nJeremy Munday was selected to receive the 2015 OSA Adolph Lomb Medal for “pioneering contributions to plasmonic and photonic light-trapping in solar cells.” The OSA press release can be found here. See also press releases from ECE and IREAP .",
     "facets": [],
     "createdAt": 1426885620139,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569100045829-UGWHULA116Z9DHDWB3RH/Munday_OSA_Lomb.jpg",
@@ -1547,7 +1616,7 @@
   },
   {
     "cid": "legacy-5d86915e201ab12e1d3a598c",
-    "text": "2014 Most Accessed Article in Journal of Materials Chemistry C\n\nOur paper entitled \u201cSilver nanowire transparent conducting paper-based electrode with high optical haze\u201d has been selected as a Most Accessed Article for 2014 and as such it has been included in the Most Accessed Articles 2014 web collection for the Journal which can be viewed here.",
+    "text": "2014 Most Accessed Article in Journal of Materials Chemistry C\n\nOur paper entitled “Silver nanowire transparent conducting paper-based electrode with high optical haze” has been selected as a Most Accessed Article for 2014 and as such it has been included in the Most Accessed Articles 2014 web collection for the Journal which can be viewed here.",
     "facets": [],
     "createdAt": 1426280940281,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569100136477-ESBIAJJT9IFEHINAV6LK/rsc-logo.jpg",
@@ -1565,7 +1634,7 @@
   },
   {
     "cid": "legacy-5d8691d605aa092653a2954e",
-    "text": "Papers published on radiation pressure experiments and new anti-reflection coatings\n\nDakang\u2019s latest experiment measuring the radiation pressure on a micro-cantilever is published in Applied Physics Letters, and Dongheon\u2019s work on paper-based anti-reflection coatings on Si solar cells is published in the IEEE Journal of Photovoltaics. Good work! Papers can be found on the publications page.",
+    "text": "Papers published on radiation pressure experiments and new anti-reflection coatings\n\nDakang’s latest experiment measuring the radiation pressure on a micro-cantilever is published in Applied Physics Letters, and Dongheon’s work on paper-based anti-reflection coatings on Si solar cells is published in the IEEE Journal of Photovoltaics. Good work! Papers can be found on the publications page.",
     "facets": [],
     "createdAt": 1425334260812,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569100258864-VLHOPPTUZWSYQ9OYCI86/AIP.png",
@@ -1583,7 +1652,7 @@
   },
   {
     "cid": "legacy-5d86922a52e6f317f7cc3dd3",
-    "text": "Munday receives 2015 IEEE Photonics Society Young Investigator Award\n\nJeremy Munday has received the 2015 IEEE Photonics Society Young Investigator Award for his \u201cpioneering contributions to plasmonic and photonic light-trapping in solar cells.\u201d The official IEEE write-up can be found here, and the UMD press release is here.",
+    "text": "Munday receives 2015 IEEE Photonics Society Young Investigator Award\n\nJeremy Munday has received the 2015 IEEE Photonics Society Young Investigator Award for his “pioneering contributions to plasmonic and photonic light-trapping in solar cells.” The official IEEE write-up can be found here, and the UMD press release is here.",
     "facets": [],
     "createdAt": 1423087920678,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569100346028-BDHKFUN4N0S4GQ06JXRQ/ieee-pc-logo-large.png",
@@ -1610,7 +1679,7 @@
   },
   {
     "cid": "legacy-5d8692a808e8f93e2657dff1",
-    "text": "Tao\u2019s hot carrier work published in Nano Letters\n\nTao\u2019s recent experimental work shows how transparent conducting oxides can be used to effectively collect hot carriers. The work is published in Nano Letters.",
+    "text": "Tao’s hot carrier work published in Nano Letters\n\nTao’s recent experimental work shows how transparent conducting oxides can be used to effectively collect hot carriers. The work is published in Nano Letters.",
     "facets": [],
     "createdAt": 1420150440993,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d8692a808e8f93e2657dff1/1569100480813/",
@@ -1628,7 +1697,7 @@
   },
   {
     "cid": "legacy-5d8692ea2367b83b507755fe",
-    "text": "Jeremy gives invited talk at OSA Incubator workshop\n\nJeremy gives an invited talk entitled, \u201cNanoscale Optics and the Shockley-Queisser Limit\u201d at the OSA Incubator on the Fundamental Limits of Optical Energy Conversion. Thanks to Svetlana, Vivian, Jurgen, Alex, and Jonathan for putting together an excellent workshop!",
+    "text": "Jeremy gives invited talk at OSA Incubator workshop\n\nJeremy gives an invited talk entitled, “Nanoscale Optics and the Shockley-Queisser Limit” at the OSA Incubator on the Fundamental Limits of Optical Energy Conversion. Thanks to Svetlana, Vivian, Jurgen, Alex, and Jonathan for putting together an excellent workshop!",
     "facets": [],
     "createdAt": 1416262500443,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d8692ea2367b83b507755fe/1569100546263/",
@@ -1646,7 +1715,7 @@
   },
   {
     "cid": "legacy-5d869335ee28af6ee0c048e1",
-    "text": "Jeremy gives invited talk at PIERS\n\nJeremy gives an invited talk at PIERS in Guangzhou, China entitled \u201cPhotonicArchitectures for Beating Light Trapping and Efficiency Limits in Solar Cells.\u201d Thanks to Chris Giebink for the invitation and excellent session!",
+    "text": "Jeremy gives invited talk at PIERS\n\nJeremy gives an invited talk at PIERS in Guangzhou, China entitled “PhotonicArchitectures for Beating Light Trapping and Efficiency Limits in Solar Cells.” Thanks to Chris Giebink for the invitation and excellent session!",
     "facets": [],
     "createdAt": 1409174160928,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d869335ee28af6ee0c048e1/1569100625698/",
@@ -1655,7 +1724,7 @@
   },
   {
     "cid": "legacy-5d8693628d1f8530e7943682",
-    "text": "New paper featured as inside Cover for Advanced Energy Materials\n\nDongheon\u2019s recent work using paper-based anti-reflection coatings is published in Advanced Energy Materials and is featured on the inside cover. See press release here. Congratulations, Dongheon!",
+    "text": "New paper featured as inside Cover for Advanced Energy Materials\n\nDongheon’s recent work using paper-based anti-reflection coatings is published in Advanced Energy Materials and is featured on the inside cover. See press release here. Congratulations, Dongheon!",
     "facets": [],
     "createdAt": 1403731020386,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569100661068-91UK890J7X0QCMHGJM20/AdvEngMat_Cover_2014.jpg",
@@ -1682,7 +1751,7 @@
   },
   {
     "cid": "legacy-5d8693ea2367b83b50776107",
-    "text": "David Somers wins IREAP Best Graduate Student Speaker Award\n\nDavid Somers is the winner of the Best Graduate Student Speaker Award from the IREAP student seminar series for Spring 2014. His talk was entitled \u201cMeasuring Casimir Torque with Liquid Crystals.\u201d Congratulations!",
+    "text": "David Somers wins IREAP Best Graduate Student Speaker Award\n\nDavid Somers is the winner of the Best Graduate Student Speaker Award from the IREAP student seminar series for Spring 2014. His talk was entitled “Measuring Casimir Torque with Liquid Crystals.” Congratulations!",
     "facets": [],
     "createdAt": 1400879940421,
     "image": "https://static1.squarespace.com/static/5d832a10791b8a06dddc7b1f/5d84ff35ad88c13184ecf16d/5d8693ea2367b83b50776107/1569100805371/",
@@ -1691,7 +1760,7 @@
   },
   {
     "cid": "legacy-5d86942352e6f317f7cc4da1",
-    "text": "Yunlu\u2019s poster receives honorable mention\n\nYunlu\u2019s poster entitled \u201cLight trapping in a polymer solar cell by tailored quantum dot emission\u201d receives honorable mention at the 2014 UMD Optics Society poster competition. Congratulations!",
+    "text": "Yunlu’s poster receives honorable mention\n\nYunlu’s poster entitled “Light trapping in a polymer solar cell by tailored quantum dot emission” receives honorable mention at the 2014 UMD Optics Society poster competition. Congratulations!",
     "facets": [],
     "createdAt": 1397164800348,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569100841760-SCS8B6R302TIZ5O790BQ/Yunlu_poster.jpg",
@@ -1709,7 +1778,7 @@
   },
   {
     "cid": "legacy-5d87b08b7fa84d4859070741",
-    "text": "Jeremy Munday wins SPIE Early Career Achievement Award\n\nProf. Jeremy Munday is the 2014 recipient of the Early Career Achievement Award in recognition of his \u201cinnovative experimental and theoretical work on photonic engineering for solar energy devices and Casimir forces.\u201d More information can be found here.",
+    "text": "Jeremy Munday wins SPIE Early Career Achievement Award\n\nProf. Jeremy Munday is the 2014 recipient of the Early Career Achievement Award in recognition of his “innovative experimental and theoretical work on photonic engineering for solar energy devices and Casimir forces.” More information can be found here.",
     "facets": [],
     "createdAt": 1392143640621,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569173654982-O73LH0W4CC22WAOCMS6F/SPIE.jpg",
@@ -1718,7 +1787,7 @@
   },
   {
     "cid": "legacy-5d87b0c77b613254a7076970",
-    "text": "New papers published in Optics Express and J-PV\n\nYunlu\u2019s work on quantum dot enhanced polymer solar cells is published in Optics Express. His work on using photonic crystals to effectively modify the bandgap of solar cells is also published in the IEEE Journal of Photovoltaics. Great job!",
+    "text": "New papers published in Optics Express and J-PV\n\nYunlu’s work on quantum dot enhanced polymer solar cells is published in Optics Express. His work on using photonic crystals to effectively modify the bandgap of solar cells is also published in the IEEE Journal of Photovoltaics. Great job!",
     "facets": [],
     "createdAt": 1390761300647,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569173717205-HZXY4XK9YKRYSVCT56NX/osa-oe.jpg",
@@ -1727,7 +1796,7 @@
   },
   {
     "cid": "legacy-5d87b117a4864d090983e1d3",
-    "text": "Jeremy gives an invited talk at the 2013 Fall MRS\n\nJeremy gives invited presentation at the 2013 Materials Research Society Fall meeting in Boston, MA. Many thanks to Kylie Catchpole, Yi Cui, and Hern\u00e1n M\u00edguez for an excellent symposium!",
+    "text": "Jeremy gives an invited talk at the 2013 Fall MRS\n\nJeremy gives invited presentation at the 2013 Materials Research Society Fall meeting in Boston, MA. Many thanks to Kylie Catchpole, Yi Cui, and Hernán Míguez for an excellent symposium!",
     "facets": [],
     "createdAt": 1386095760894,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569173790014-85FYPWBT2RJ05YJGK9NX/MRS.jpg",
@@ -1736,7 +1805,7 @@
   },
   {
     "cid": "legacy-5d87b151507cd44e13a65865",
-    "text": "Jeremy gives two invited talks at OSA\u2019s Renewable Energy and the Environment conference\n\nJeremy gives two invited talks at OSA\u2019s Renewable Energy and the Environment conference in Tucson, Arizona. These talks were part of the sections on \u201cOptics for Solar Energy (SOLAR)\u201d and \u201cOptical Nanostructures and Advanced Materials for Photovoltaics (PV).\u201d Thanks to Alan Kost and Alexander Sprafke for the invitations!",
+    "text": "Jeremy gives two invited talks at OSA’s Renewable Energy and the Environment conference\n\nJeremy gives two invited talks at OSA’s Renewable Energy and the Environment conference in Tucson, Arizona. These talks were part of the sections on “Optics for Solar Energy (SOLAR)” and “Optical Nanostructures and Advanced Materials for Photovoltaics (PV).” Thanks to Alan Kost and Alexander Sprafke for the invitations!",
     "facets": [],
     "createdAt": 1383413820976,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569173854688-Q8VH1GU3Q7U75PNE1NWZ/OSA.png",
@@ -1763,7 +1832,7 @@
   },
   {
     "cid": "legacy-5d87b255a4864d090983f1f1",
-    "text": "Jeremy gives an invited talk at the ICCES\u201913 Metamaterial Symposium in Seattle\n\nJeremy gives an invited talk at the ICCES\u201913 Metamaterial Symposium in Seattle, WA. Thanks to Rakesh M. Jha for the invitation!",
+    "text": "Jeremy gives an invited talk at the ICCES’13 Metamaterial Symposium in Seattle\n\nJeremy gives an invited talk at the ICCES’13 Metamaterial Symposium in Seattle, WA. Thanks to Rakesh M. Jha for the invitation!",
     "facets": [],
     "createdAt": 1369417320183,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569174144470-DE3TMZY5VVJMPK6U8JNW/icces.gif",
@@ -1772,7 +1841,7 @@
   },
   {
     "cid": "legacy-5d87b2b7c72ef97f29aab748",
-    "text": "Joe Garrett\u2019s talk on the Casimir Force tied for first place in the session \u2018Pushing the Boundaries of Science\u2019 at the UMD Graduate Research Interaction Day\n\nCongratulations to Joe! For more details, click here.",
+    "text": "Joe Garrett’s talk on the Casimir Force tied for first place in the session ‘Pushing the Boundaries of Science’ at the UMD Graduate Research Interaction Day\n\nCongratulations to Joe! For more details, click here.",
     "facets": [],
     "createdAt": 1366566180340,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569174207778-3LJSBAQLE85P9SNDA7CH/GRID.jpg",
@@ -1835,7 +1904,7 @@
   },
   {
     "cid": "legacy-5d87b48931dfb505c3bc0c95",
-    "text": "Dr. Leite\u2019s work on multijunction solar cells that could exceed 50% efficiency is highlighted in media\n\nDr. Leite\u2019s work on multijunction solar cells that could exceed 50% efficiency is highlighted in Physics Org and can be found here.",
+    "text": "Dr. Leite’s work on multijunction solar cells that could exceed 50% efficiency is highlighted in media\n\nDr. Leite’s work on multijunction solar cells that could exceed 50% efficiency is highlighted in Physics Org and can be found here.",
     "facets": [],
     "createdAt": 1360263120906,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569174682154-XNHR07ONNC203GVEKLB6/PhysOrg.jpg",
@@ -1853,7 +1922,7 @@
   },
   {
     "cid": "legacy-5d87b5fc9a9d804ae895b4bb",
-    "text": "\u201cEngineering slimmer solar cells\u201d from Nature News\n\n\u201cEngineering slimmer solar cells\u201d from Nature News.",
+    "text": "“Engineering slimmer solar cells” from Nature News\n\n“Engineering slimmer solar cells” from Nature News.",
     "facets": [],
     "createdAt": 1326308220384,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569175058942-KTI4TU2GKHMOQ1PZLMPC/nature.jpg",
@@ -1871,7 +1940,7 @@
   },
   {
     "cid": "legacy-5d87b68b9a9d804ae895bd65",
-    "text": "\u201cA new way to a better solar cell\u201d from Greentech Solar\n\n\u201cA new way to a better solar cell\u201d from Greentech Solar.",
+    "text": "“A new way to a better solar cell” from Greentech Solar\n\n“A new way to a better solar cell” from Greentech Solar.",
     "facets": [],
     "createdAt": 1297105200908,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569175199113-3GT3NJ24XCQNS0PTCA2W/GreenTech.jpg",
@@ -1889,7 +1958,7 @@
   },
   {
     "cid": "legacy-5d87b6e57b613254a707b8f0",
-    "text": "\u201cLa Force du vide\u201d from Science &amp; Vie\n\nOur work on the Casimir effect is featured in the French magazine, Science &amp; Vie (July 2009, page 104), in an article entitled \u201cLa Force du vide.\u201d",
+    "text": "“La Force du vide” from Science &amp; Vie\n\nOur work on the Casimir effect is featured in the French magazine, Science &amp; Vie (July 2009, page 104), in an article entitled “La Force du vide.”",
     "facets": [],
     "createdAt": 1244397660482,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569175278802-BOISESEZ6ELU51YRW3L1/ScienceVie.jpg",
@@ -1898,7 +1967,7 @@
   },
   {
     "cid": "legacy-5d87b77e7b613254a707c24d",
-    "text": "\u201cCasimir forces: Don\u2019t stick around\u201d from Nature Nanotechnology\n\nOur Casimir force work is described in a Nature Nanotechnology article entitled, \u201cCasimir forces: Don\u2019t stick around.\u201d",
+    "text": "“Casimir forces: Don’t stick around” from Nature Nanotechnology\n\nOur Casimir force work is described in a Nature Nanotechnology article entitled, “Casimir forces: Don’t stick around.”",
     "facets": [],
     "createdAt": 1234119780069,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569175431278-GYOTRLE1R7QAT92NRVIO/NatureNanotech.jpg",
@@ -1907,7 +1976,7 @@
   },
   {
     "cid": "legacy-5d87b7f887675335de6db13d",
-    "text": "\"Casimir forces between solids can be repulsive\" from Physics Today\n\nOur Casimir force experiments highlighted in an article entitled \u201dCasimir forces between solids can be repulsive\u201d from Physics Today.",
+    "text": "\"Casimir forces between solids can be repulsive\" from Physics Today\n\nOur Casimir force experiments highlighted in an article entitled ”Casimir forces between solids can be repulsive” from Physics Today.",
     "facets": [],
     "createdAt": 1234033560393,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569175561174-SZM5IQ0G4CM1SEERN17J/PhysicsToday.jpg",
@@ -1925,7 +1994,7 @@
   },
   {
     "cid": "legacy-5d87bc517b613254a707f363",
-    "text": "\u201cQuantum physics: Quantum force turns repulsive\u201d from Nature News and Views (2009)\n\nNature News and Views article describes our recent work.",
+    "text": "“Quantum physics: Quantum force turns repulsive” from Nature News and Views (2009)\n\nNature News and Views article describes our recent work.",
     "facets": [],
     "createdAt": 1231442640323,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176667828-1F15GSB1ZKLRW9K774F7/nature.jpg",
@@ -1934,7 +2003,7 @@
   },
   {
     "cid": "legacy-5d87bbe9507cd44e13a6dca6",
-    "text": "\u201cQuantum repulsion could make nano devices even tinier\u201d from Scientific American\n\n\u201cQuantum repulsion could make nano devices even tinier\u201d from Scientific American (2009).",
+    "text": "“Quantum repulsion could make nano devices even tinier” from Scientific American\n\n“Quantum repulsion could make nano devices even tinier” from Scientific American (2009).",
     "facets": [],
     "createdAt": 1231442520828,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176563405-P4SQTHD45CZ2TU85C0MS/scientificamerican.jpg",
@@ -1943,7 +2012,7 @@
   },
   {
     "cid": "legacy-5d87bb727b613254a707ec99",
-    "text": "\u201cCasimir effect goes negative\u201d from Physics World\n\nOur work featured in Physics World article entitled, \u201cCasimir effect goes negative.\u201d",
+    "text": "“Casimir effect goes negative” from Physics World\n\nOur work featured in Physics World article entitled, “Casimir effect goes negative.”",
     "facets": [],
     "createdAt": 1231442460759,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176465299-NY9Z9RFT9VXCIR6I2IS9/physicsWorld.jpg",
@@ -1952,7 +2021,7 @@
   },
   {
     "cid": "legacy-5d87bb32a4864d0909846003",
-    "text": "\u201cTo Levitate Nano-Objects, Researchers Exploit a Force of Quantum Repulsion\u201d from Discover\n\nOur work featured in an article entitled, \u201cTo Levitate Nano-Objects, Researchers Exploit a Force of Quantum Repulsion\u201d in Discover.",
+    "text": "“To Levitate Nano-Objects, Researchers Exploit a Force of Quantum Repulsion” from Discover\n\nOur work featured in an article entitled, “To Levitate Nano-Objects, Researchers Exploit a Force of Quantum Repulsion” in Discover.",
     "facets": [],
     "createdAt": 1231442340384,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176379326-IT2UQIQ9OI1PYZS3P21O/Discover.jpg",
@@ -1961,7 +2030,7 @@
   },
   {
     "cid": "legacy-5d87bae9507cd44e13a6d2d5",
-    "text": "\u201cU.S. scientists learn how to levitate tiny objects\u201d from msnbc.com\n\nOur work featured in Reuters and msnbc.com article entitled \u201cU.S. scientists learn how to levitate tiny objects.\u201d",
+    "text": "“U.S. scientists learn how to levitate tiny objects” from msnbc.com\n\nOur work featured in Reuters and msnbc.com article entitled “U.S. scientists learn how to levitate tiny objects.”",
     "facets": [],
     "createdAt": 1231442280032,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176306373-ZUXUDZU9NGML1DV8UJD6/reuters.jpg",
@@ -1970,7 +2039,7 @@
   },
   {
     "cid": "legacy-5d87baa3a4864d09098456e5",
-    "text": "Copy of Most Viewed Science News on Yahoo! News\n\nOur work featured in Time article entitled \u201cLearning More About Levitation.\u201d",
+    "text": "Copy of Most Viewed Science News on Yahoo! News\n\nOur work featured in Time article entitled “Learning More About Levitation.”",
     "facets": [],
     "createdAt": 1231442220278,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176237916-WOHL6QS62LN7XCV9PXNL/Time.jpg",
@@ -1979,7 +2048,7 @@
   },
   {
     "cid": "legacy-5d87ba4287675335de6dc8e7",
-    "text": "Most Viewed Science News on Yahoo! News\n\nOur work became the \u201cMost Viewed Science News\u201d on Yahoo! News.",
+    "text": "Most Viewed Science News on Yahoo! News\n\nOur work became the “Most Viewed Science News” on Yahoo! News.",
     "facets": [],
     "createdAt": 1231442100323,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176144110-BU6FTIGVFG9NTNQ0ZKOC/Yahoo.jpg",
@@ -1988,7 +2057,7 @@
   },
   {
     "cid": "legacy-5d87b9caa520905cab487ec9",
-    "text": "\u201cResearchers measure elusive repulsive force from quantum fluctuations\u201d from Harvard press release\n\nPress release of latest Casimir force work can be found here: \u201cResearchers measure elusive repulsive force from quantum fluctuations\u201d from Harvard press release.",
+    "text": "“Researchers measure elusive repulsive force from quantum fluctuations” from Harvard press release\n\nPress release of latest Casimir force work can be found here: “Researchers measure elusive repulsive force from quantum fluctuations” from Harvard press release.",
     "facets": [],
     "createdAt": 1231441980694,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176020022-X2V2DU1Z1J2L88DA9C71/Harvard_icon.jpg",
@@ -1997,7 +2066,7 @@
   },
   {
     "cid": "legacy-5d87b974507cd44e13a6c073",
-    "text": "\u201cQuantum lubricant could keep nanomachines rolling\u201d from New Scientist\n\nOur worked featured in \u201cQuantum lubricant could keep nanomachines rolling\u201d from New Scientist.",
+    "text": "“Quantum lubricant could keep nanomachines rolling” from New Scientist\n\nOur worked featured in “Quantum lubricant could keep nanomachines rolling” from New Scientist.",
     "facets": [],
     "createdAt": 1231441920313,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569175935099-KRCEDMENXOK33VGBZIN8/NewScientist.jpg",
@@ -2006,7 +2075,7 @@
   },
   {
     "cid": "legacy-5d87b922f4f8e70522b13caf",
-    "text": "\u201cRepulsive Force Could Eliminate Nanofriction\u201d from the MIT Technology Review\n\nOur work featured in the&nbsp;MIT Technology Review:&nbsp;\u201cRepulsive Force Could Eliminate Nanofriction.\u201d",
+    "text": "“Repulsive Force Could Eliminate Nanofriction” from the MIT Technology Review\n\nOur work featured in the&nbsp;MIT Technology Review:&nbsp;“Repulsive Force Could Eliminate Nanofriction.”",
     "facets": [],
     "createdAt": 1231441860035,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569175853710-7NQ0FR9PUB5920JT09FJ/MIT_Tech.jpg",
@@ -2015,7 +2084,7 @@
   },
   {
     "cid": "legacy-5d87b8dc9a9d804ae895d1f6",
-    "text": "\u201cSEAS Researchers Measure Quantum Repulsive Force\u201d from the Harvard Crimson\n\nOur work featured in the Harvard Crimson: \u201cSEAS Researchers Measure Quantum Repulsive Force.\u201d",
+    "text": "“SEAS Researchers Measure Quantum Repulsive Force” from the Harvard Crimson\n\nOur work featured in the Harvard Crimson: “SEAS Researchers Measure Quantum Repulsive Force.”",
     "facets": [],
     "createdAt": 1231441740168,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569175783507-EAY121V4LT2C73M7T4LI/harvardcrimson.jpg",
@@ -2024,7 +2093,7 @@
   },
   {
     "cid": "legacy-5d87b87ea520905cab4873b5",
-    "text": "\u201cRepulsive Casimir Measured\u201d from photonics.com\n\nOur work feature in photonics.com \u2013 \u201cRepulsive Casimir Measured.\u201d",
+    "text": "“Repulsive Casimir Measured” from photonics.com\n\nOur work feature in photonics.com – “Repulsive Casimir Measured.”",
     "facets": [],
     "createdAt": 1231441680230,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569175712286-5DUFD7MPG7K3NL61PV6G/photonics.jpg",
@@ -2033,7 +2102,7 @@
   },
   {
     "cid": "legacy-5d87bceb7b613254a707fa77",
-    "text": "\u201cMuch Ado About Nothing: The Casimir Effect\u201d from The Economist\n\nOur work featured in The Economist: \u201cMuch Ado About Nothing: The Casimir Effect.\u201d",
+    "text": "“Much Ado About Nothing: The Casimir Effect” from The Economist\n\nOur work featured in The Economist: “Much Ado About Nothing: The Casimir Effect.”",
     "facets": [],
     "createdAt": 1211480820527,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176828462-M3WYJDRJ3KIVAD9I60AT/Economist.jpg",
@@ -2042,7 +2111,7 @@
   },
   {
     "cid": "legacy-5d87bd368af6bd7c7cd5d699",
-    "text": "\u201cCasimir force learns to Swim\u201d from PhysicsWeb\n\nOur work on the Casimir force in fluid is featured in PhysicsWeb: \u201cCasimir force learns to Swim.\u201d",
+    "text": "“Casimir force learns to Swim” from PhysicsWeb\n\nOur work on the Casimir force in fluid is featured in PhysicsWeb: “Casimir force learns to Swim.”",
     "facets": [],
     "createdAt": 1181327280184,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176899332-1JUS20YQZTGDRI5SJ658/PhysicsWeb.jpg",
@@ -2051,7 +2120,7 @@
   },
   {
     "cid": "legacy-5d87bd74bff696795a69b9f4",
-    "text": "\u201cFeel the force\u201d from Nature\n\nOur work highlighted in Nature Feature: \u201cFeel the force.\u201d",
+    "text": "“Feel the force” from Nature\n\nOur work highlighted in Nature Feature: “Feel the force.”",
     "facets": [],
     "createdAt": 1179858540327,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569176959450-WDRQPCC7ON3NNKDQ1O0J/nature.jpg",
@@ -2060,7 +2129,7 @@
   },
   {
     "cid": "legacy-5d87bdbb080efc2a02237cc1",
-    "text": "\u201cSpeed of light broken with basic lab kit\u201d from New Scientist\n\nWork on faster than light pulses featured in New Scientist: \u201cSpeed of light broken with basic lab kit.\u201d",
+    "text": "“Speed of light broken with basic lab kit” from New Scientist\n\nWork on faster than light pulses featured in New Scientist: “Speed of light broken with basic lab kit.”",
     "facets": [],
     "createdAt": 1032719400645,
     "image": "https://images.squarespace-cdn.com/content/v1/5d832a10791b8a06dddc7b1f/1569177030244-M7TJABCCAOFJZG3FZCYH/NewScientist.jpg",
