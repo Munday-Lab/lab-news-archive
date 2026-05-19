@@ -1,39 +1,5 @@
 [
   {
-    "cid": "bafyreiaqv5vcfb7p4hcrjfhcxry4fnwpiolhqvflngjh4fq3tjfubky5va",
-    "text": "Thanks to UC Davis, for a nice story about our recent TPV work: \"Researchers are Creating a Brighter Future for Solar Cells \u2014 Without the Sun\" \nece.ucdavis.edu/news/researc... \n@ucdavisengineering.bsky.social",
-    "facets": [
-      {
-        "features": [
-          {
-            "$type": "app.bsky.richtext.facet#link",
-            "uri": "https://ece.ucdavis.edu/news/researchers-are-creating-brighter-future-solar-cells-without-sun"
-          }
-        ],
-        "index": {
-          "byteEnd": 177,
-          "byteStart": 146
-        }
-      },
-      {
-        "$type": "app.bsky.richtext.facet",
-        "features": [
-          {
-            "$type": "app.bsky.richtext.facet#mention",
-            "did": "did:plc:evcds4axfd36thmsoslyytg7"
-          }
-        ],
-        "index": {
-          "byteEnd": 210,
-          "byteStart": 179
-        }
-      }
-    ],
-    "createdAt": "2026-03-20T23:44:40.349Z",
-    "image": null,
-    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3mhjp4hg5an2q"
-  },
-  {
     "cid": "bafyreihl2dwpizpx6e2nx7rivcstxj7ilsar3yr4iuejugdghkmub54i34",
     "text": "We are happy to share our latest work using #MachineLearning and #AI for High-Efficiency #Thermophotovoltaics published in @ACS_AMI.bsky.social\npubs.acs.org/doi/10.1021/... \n\n@ucdavis.bsky.social @ucdavisengineering.bsky.social @UCDavisECE.bsky.social  \n#RenewableEnergy #TPV",
     "facets": [
