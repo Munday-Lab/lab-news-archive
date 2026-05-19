@@ -1,54 +1,90 @@
-import requests
+import os
+import re
 import json
+import urllib.request
+from datetime import datetime
 
-# CONFIGURATION - Make sure this is your lab's handle
-HANDLE = "mundaylab.bsky.social" 
-FILE_NAME = "news.json"
+# URL to fetch the feed data
+API_URL = "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=mundaylab.bsky.social&limit=50"
 
-def fetch_posts():
+def clean_text(text):
+    if not text:
+        return ""
+    
+    # 1. Remove trailing stacked handles/tags at the literal end of the post
+    text = re.sub(r'(\s*(?:[#@]\S+\s*)+)$', '', text)
+    
+    # 2. Process remaining mid-sentence handles (@) and hashtags (#)
+    # This matches the word and groups any trailing punctuation to protect it
+    def format_match(match):
+        word = match.group(1)
+        punctuation = match.group(2) or ""
+        
+        # Split normal CamelCase (e.g., JohnDoe -> John Doe)
+        word = re.sub(r'([a-z])([A-Z])', r'\1 \2', word)
+        # Split acronyms leading into mixed case (e.g., IOPPublishing -> IOP Publishing)
+        word = re.sub(r'([A-Z]+)([A-Z][a-z])', r'\1 \2', word)
+        # Split letters and numbers (e.g., Lab2026 -> Lab 2026)
+        word = re.sub(r'([a-zA-Z])([0-9])', r'\1 \2', word)
+        word = re.sub(r'([0-9])([a-zA-Z])', r'\1 \2', word)
+        
+        return word + punctuation
+
+    text = re.sub(r'[#@](\w+)(\b|[.,!?:\s]|$)', format_match, text)
+    
+    # 3. Clean up any resulting double spaces
+    text = re.sub(r'\s{2,}', ' ', text).strip()
+    return text
+
+def fetch_feed():
     try:
-        with open(FILE_NAME, 'r') as f:
-            archive = json.load(f)
-    except:
-        archive = []
-
-    existing_ids = {post['cid'] for post in archive}
-    
-    # Using the Public API endpoint
-    url = f"https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor={HANDLE}&limit=100"
-    response = requests.get(url).json()
-    feed = response.get('feed', [])
-
-    new_count = 0
-    for item in feed:
-        post = item['post']
-        if post['cid'] not in existing_ids:
-            # Get Image
-            image_url = None
-            if 'embed' in post and 'images' in post['embed']:
-                image_url = post['embed']['images'][0]['fullsize']
-
-            # Save Facets (This is what handles the links!)
-            facets = post['record'].get('facets', [])
-
-            archive.append({
-                'cid': post['cid'],
-                'text': post['record'].get('text', ''),
-                'facets': facets,
-                'createdAt': post['record'].get('createdAt'),
-                'image': image_url,
-                'uri': post['uri']
-            })
-            new_count += 1
-
-    # Sort Newest First
-    #archive.sort(key=lambda x: x['createdAt'], reverse=True)
-    # This converts createdAt to a string during sorting so they can be compared
-    archive.sort(key=lambda x: str(x.get('createdAt', '')), reverse=True)
-    with open(FILE_NAME, 'w') as f:
-        json.dump(archive, f, indent=2)
-    
-    print(f"Added {new_count} posts.")
+        req = urllib.request.Request(API_URL, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req) as response:
+            if response.getcode() == 200:
+                data = json.loads(response.read().decode('utf-8'))
+                posts = []
+                
+                for item in data.get('feed', []):
+                    post_data = item.get('post', {})
+                    record = post_data.get('record', {})
+                    
+                    # Ignore replies to keep the feed clean
+                    if record.get('reply'):
+                        continue
+                        
+                    text = record.get('text', '')
+                    cleaned_text = clean_text(text)
+                    
+                    # --- REQ 2: Resolve Image (Standard vs. External link thumbnails) ---
+                    image_url = None
+                    embed = post_data.get('embed', {})
+                    
+                    if embed:
+                        # Case A: Standard uploaded image
+                        if 'images' in embed and len(embed['images']) > 0:
+                            image_url = embed['images'][0].get('thumb')
+                        # Case B: External link card preview thumbnail (e.g., UC Davis story)
+                        elif 'external' in embed and isinstance(embed['external'], dict):
+                            image_url = embed['external'].get('thumb')
+                    
+                    # Grab created timestamp
+                    created_at = record.get('createdAt', '')
+                    
+                    posts.append({
+                        "text": cleaned_text,
+                        "image": image_url,
+                        "createdAt": created_at,
+                        "uri": post_data.get('uri', ''),
+                        "fullUrl": f"https://bsky.app/profile/{post_data.get('author', {}).get('handle')}/post/{post_data.get('uri', '').split('/')[-1]}" if post_data.get('uri') else ""
+                    })
+                
+                # Save the processed items into news.json
+                with open("news.json", "w", encoding="utf-8") as f:
+                    json.dump(posts, f, ensure_ascii=False, indent=2)
+                print("Successfully updated news.json with link-card pictures and parsed text rules!")
+                
+    except Exception as e:
+        print(f"Error executing feed update script: {e}")
 
 if __name__ == "__main__":
-    fetch_posts()
+    fetch_feed()
