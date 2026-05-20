@@ -1,5 +1,74 @@
 [
   {
+    "text": "New papers published about #MachineLearning for #TPV in @ACSPhotonics and probe cleaning methods for #AFM in @IOPPublishing.\npubs.acs.org/doi/full/10.... \niopscience.iop.org/article/10.1...",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "MachineLearning"
+          }
+        ],
+        "index": {
+          "byteEnd": 43,
+          "byteStart": 27
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "TPV"
+          }
+        ],
+        "index": {
+          "byteEnd": 52,
+          "byteStart": 48
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "AFM"
+          }
+        ],
+        "index": {
+          "byteEnd": 105,
+          "byteStart": 101
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#link",
+            "uri": "https://pubs.acs.org/doi/full/10.1021/acsphotonics.5c03023"
+          }
+        ],
+        "index": {
+          "byteEnd": 153,
+          "byteStart": 125
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#link",
+            "uri": "https://iopscience.iop.org/article/10.1088/1361-6501/ae5325"
+          }
+        ],
+        "index": {
+          "byteEnd": 189,
+          "byteStart": 155
+        }
+      }
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreibnnzqi6wz7nzennxs2sh6u5m3f4a2jujpv53r3xemphlp3hjvpda",
+    "createdAt": "2026-05-19T21:34:35.777Z",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3mmadt37rx72n",
+    "fullUrl": "https://bsky.app/profile/mundaylab.bsky.social/post/3mmadt37rx72n"
+  },
+  {
     "text": "Thanks to UC Davis, for a nice story about our recent TPV work: \"Researchers are Creating a Brighter Future for Solar Cells — Without the Sun\" \nece.ucdavis.edu/news/researc... \n@ucdavisengineering.bsky.social",
     "facets": [
       {
