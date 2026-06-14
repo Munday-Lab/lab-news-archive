@@ -1,5 +1,26 @@
 [
   {
+    "text": "Great conference hosted by Timur Shegai and Paulo A. Maia Neto on \"Advances in Interfacial Forces and #Casimir Interactions\" in Gothenburg, Sweden. Thanks for the invitation to speak, and to Calum Shelden for a great poster!",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Casimir"
+          }
+        ],
+        "index": {
+          "byteEnd": 110,
+          "byteStart": 102
+        }
+      }
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreifineysoniih45oaryapdkwekrurinbjt47fd2vq2vi6xdk66i2tm",
+    "createdAt": "2026-06-13T18:45:15.775Z",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3mo6vzcfmdj2l",
+    "fullUrl": "https://bsky.app/profile/mundaylab.bsky.social/post/3mo6vzcfmdj2l"
+  },
+  {
     "text": "New papers published about #MachineLearning for #TPV in @ACSPhotonics and probe cleaning methods for #AFM in @IOPPublishing.\npubs.acs.org/doi/full/10.... \niopscience.iop.org/article/10.1...",
     "facets": [
       {
