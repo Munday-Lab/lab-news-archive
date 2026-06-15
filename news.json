@@ -1,5 +1,38 @@
 [
   {
+    "text": "Munday gives an invited talk at @IEEEPVSC entitled, \"Controlling Thermal Radiation for Energy Conversion: From #Thermophotovoltaics to #Thermoradiative Devices.\" Thanks to Emily Warren and the rest of the organizers for a great session!",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Thermophotovoltaics"
+          }
+        ],
+        "index": {
+          "byteEnd": 131,
+          "byteStart": 111
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Thermoradiative"
+          }
+        ],
+        "index": {
+          "byteEnd": 151,
+          "byteStart": 135
+        }
+      }
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreiau4ok5ijgk64a4fwsnt5dn7fyuy4lfssxwm6fbune6grv65j52fy",
+    "createdAt": "2026-06-14T16:30:20.059Z",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3mob6wx6smu2b",
+    "fullUrl": "https://bsky.app/profile/mundaylab.bsky.social/post/3mob6wx6smu2b"
+  },
+  {
     "text": "Great conference hosted by Timur Shegai and Paulo A. Maia Neto on \"Advances in Interfacial Forces and #Casimir Interactions\" in Gothenburg, Sweden. Thanks for the invitation to speak, and to Calum Shelden for a great poster!",
     "facets": [
       {
