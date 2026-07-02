@@ -1,5 +1,62 @@
 [
   {
+    "text": "Congratulations to Calum Shelden for being selected to participate in the 75th Lindau Nobel Laureate Meeting (#LINO75)! \n#LINO75 #LindauNobel #YoungScientists #UCDavis",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "LINO75"
+          }
+        ],
+        "index": {
+          "byteEnd": 128,
+          "byteStart": 121
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "LindauNobel"
+          }
+        ],
+        "index": {
+          "byteEnd": 141,
+          "byteStart": 129
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "YoungScientists"
+          }
+        ],
+        "index": {
+          "byteEnd": 158,
+          "byteStart": 142
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "UCDavis"
+          }
+        ],
+        "index": {
+          "byteEnd": 167,
+          "byteStart": 159
+        }
+      }
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreiazwg2en4h34ididxfn576kpu6lkwa2y2espytkm4iwva3nfxatn4",
+    "createdAt": "2026-07-01T16:42:49.933Z",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3mplxkx5qmk2u",
+    "fullUrl": "https://bsky.app/profile/mundaylab.bsky.social/post/3mplxkx5qmk2u"
+  },
+  {
     "text": "Munday gives an invited talk at @IEEEPVSC entitled, \"Controlling Thermal Radiation for Energy Conversion: From #Thermophotovoltaics to #Thermoradiative Devices.\" Thanks to Emily Warren and the rest of the organizers for a great session!",
     "facets": [
       {
