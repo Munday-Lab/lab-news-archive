@@ -1,5 +1,86 @@
 [
   {
+    "text": "Munday gives an invited talk about the #Casimir effect with #Metasurfaces at the 2026 @metaconference on #Metamaterials, #PhotonicCrystals, and #Plasmonics.\nmetaconferences.org/META26",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Casimir"
+          }
+        ],
+        "index": {
+          "byteEnd": 47,
+          "byteStart": 39
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Metasurfaces"
+          }
+        ],
+        "index": {
+          "byteEnd": 73,
+          "byteStart": 60
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Metamaterials"
+          }
+        ],
+        "index": {
+          "byteEnd": 119,
+          "byteStart": 105
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "PhotonicCrystals"
+          }
+        ],
+        "index": {
+          "byteEnd": 138,
+          "byteStart": 121
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Plasmonics"
+          }
+        ],
+        "index": {
+          "byteEnd": 155,
+          "byteStart": 144
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#link",
+            "uri": "https://metaconferences.org/META26"
+          }
+        ],
+        "index": {
+          "byteEnd": 183,
+          "byteStart": 157
+        }
+      }
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreiewqfu4t7ei6pelk35o3rccj5aif3elcpst3zkziccty3afguvege",
+    "createdAt": "2026-07-20T14:02:02.123Z",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3mr3hgw2rbw2t",
+    "fullUrl": "https://bsky.app/profile/mundaylab.bsky.social/post/3mr3hgw2rbw2t"
+  },
+  {
     "text": "Congratulations to Calum Shelden for being selected to participate in the 75th Lindau Nobel Laureate Meeting (#LINO75)! \n#LINO75 #LindauNobel #YoungScientists #UCDavis",
     "facets": [
       {
